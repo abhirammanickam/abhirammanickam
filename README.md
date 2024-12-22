@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Full Stack projects. <br>🌱 I’m currently learning JavaScript and MySQL Database.<br>💬 Ask me about React Js projects.<br>👫 Let's chat, connect, and make some coding ideas get created!!.<br>⚡ Fun fact : Random ideology plays best part :).
+🔭 I’m currently working on Full Stack projects. <br>🌱 I’m currently learning JavaScript and MySQL Database.<br>💬 Ask me about React Js projects.<br>👫 Let's chat, connect, and make some coding ideas get created!!.<br>⚡ Fun fact : Random ideology plays best part :)
 
 
 ## 🌐 Socials:
